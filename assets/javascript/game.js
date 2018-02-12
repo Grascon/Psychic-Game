@@ -47,7 +47,7 @@ guessedLetters.push(userGuess);
 		guesses = 10;
 	} 
 			
-	//records wins losses, guesses, and guessed letters and updates html in id of game
+	//records wins, losses, guesses, and guessed letters and updates html in id of game
 	var html = 
         "<p>Wins: " + wins + "</p>" +
         "<p>Losses: " + losses + "</p>" +
