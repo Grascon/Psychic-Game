@@ -55,4 +55,3 @@ guessedLetters.push(userGuess);
         "<p>Your guesses so far: " + guessedLetters.join(", ") + "</p>" ;
         document.querySelector("#game").innerHTML = html;
 	}
-};
